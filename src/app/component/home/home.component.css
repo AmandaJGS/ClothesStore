@@ -1,0 +1,18 @@
+.desc {
+    background-image: url(../../../assets/pqh/bikini..jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-clip: content-box;
+    background-repeat: no-repeat;
+    height: 500px;
+
+    text-align: center;
+}
+
+h1, p {
+    color: antiquewhite;
+}
+
+p {
+    font-size: 15px;
+}
